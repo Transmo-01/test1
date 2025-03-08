@@ -1,1 +1,6 @@
 一个aaa
+def hello（）{
+  print（"aaaaa"）
+}
+
+hello（）
